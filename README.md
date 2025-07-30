@@ -26,7 +26,7 @@ The AFL M200 operates in Full Auto Mode, which:
 - Allows quick detection of faults and performance issues
 
 Key technical specs for the AFL M200:
-- Dynamic range**: 26 dB (single-mode)
+- Dynamic range: 26 dB (single-mode)
 - Event dead zone: 1.5 m
 - Attenuation dead zone: 9 m
 - Wavelengths: 1310/1550 nm
@@ -42,15 +42,12 @@ Key technical specs for the AFL M200:
 - Fiber type: Single-mode
 - Launch/Receive cables: Used as required for accurate end-to-end loss measurement
 
----
-
 ## 📊 Results Summary
 
 ## Fiber Links 1 and 4 (Single fibers)
 The initial visual inspection showed that optical fibers no. 1 and 4 were not conductive, so they were not further analyzed.
 
 ### Fiber Link 2
-
 ![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
 
 | # | Event Type | Distance (km) | Loss (dB) |
