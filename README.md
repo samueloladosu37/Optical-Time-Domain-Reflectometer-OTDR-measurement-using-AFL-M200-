@@ -106,8 +106,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 - The AFL M200 OTDR proved effective for link verification, fault location, and quality assurance.
 
 ---
-
-## 📍 Author
-
-**Samuel Oluwafemi Oladosu**  
-*Fiber Optic Link Testing with AFL M200*
+## 📫 Contact
+Feel free to reach out or collaborate:
+- LinkedIn: [Samuel Oladosu](https://www.linkedin.com/in/samueloladosu/)
+- Email: [samueloladosu37@gmail.com](mailto:samueloladosu37@gmail.com)
