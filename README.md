@@ -51,7 +51,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 
 ### Fiber Link 2
 
-[Full specifications →](https://www.aflglobal.com/Products/Test-and-Inspection/OTDR/M200.aspx)
+[Full specifications →](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
 
 | # | Event Type | Distance (km) | Loss (dB) |
 |---|------------|----------------|-----------|
