@@ -63,7 +63,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 ---
 
 ### Fiber Segment 3
-![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%203.png)
 | # | Event Type | Distance (km) | Loss (dB) |
 |---|------------|----------------|-----------|
 | 1 | Splice     | 0.7106         | 1.162     |
