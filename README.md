@@ -51,7 +51,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 
 ### Fiber Link 2
 
-![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%237%20-%20Bike%20Handlebar%20Grip%20v2.png)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
 
 | # | Event Type | Distance (km) | Loss (dB) |
 |---|------------|----------------|-----------|
@@ -63,7 +63,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 ---
 
 ### Fiber Segment 3
-[Full specifications →](https://www.aflglobal.com/Products/Test-and-Inspection/OTDR/M200.aspx)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
 | # | Event Type | Distance (km) | Loss (dB) |
 |---|------------|----------------|-----------|
 | 1 | Splice     | 0.7106         | 1.162     |
@@ -71,14 +71,15 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 ---
 
 ### Fiber Segment 5
-[Full specifications →](https://www.aflglobal.com/Products/Test-and-Inspection/OTDR/M200.aspx)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
+
 - ✅ No events detected
 - 🧪 Indicates clean, continuous fiber
 
 ---
 
 ### Combined Link: Segment 3 + 5 + 2
-[Full specifications →](https://www.aflglobal.com/Products/Test-and-Inspection/OTDR/M200.aspx)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
 | # | Event Type | Distance (km) | Loss (dB) |
 |---|------------|----------------|-----------|
 | 1 | Connector  | 1.4510         | 0.436     |
