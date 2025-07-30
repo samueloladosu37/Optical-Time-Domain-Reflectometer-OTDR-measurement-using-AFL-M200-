@@ -71,7 +71,7 @@ The initial visual inspection showed that optical fibers no. 1 and 4 were not co
 ---
 
 ### Fiber Segment 5
-![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/Fiber%20Link%202.png)
+![Preview](https://github.com/samueloladosu37/Optical-Time-Domain-Reflectometer-OTDR-measurement-using-AFL-M200-/blob/main/FIber%20Link%205.png)
 
 - ✅ No events detected
 - 🧪 Indicates clean, continuous fiber
